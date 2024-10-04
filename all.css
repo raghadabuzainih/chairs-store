@@ -1,0 +1,254 @@
+.all1{
+    font-family: 'Poppins', sans-serif;
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    padding: 10rem;
+}
+
+.all1 h1, .all1 p, .all1 button{
+    justify-items: center;
+}
+
+.all1 h1{
+    font-weight: 900;
+}
+
+.all1 h1{
+    color: #3C3A47;
+}
+
+.all1 p{
+    color: #76747E;
+    font-size: 22px;
+}
+
+.all1 .mo{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.all1 button{
+    width: 300px;
+    height: 58px;
+    font-size: 16px;
+    color: #9F7657;
+    font-weight: 600;
+    background-color: white;
+    border-color: #9F7657;
+    border-width: .2px;
+    border-style: solid;
+}
+
+.all1 img{
+    width: 48px;
+}
+
+
+
+
+
+
+.all2{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    display: grid;
+    justify-items: center;
+    background-color: #EFF0EA;
+    padding-top: 15rem;
+    padding-bottom: 4rem;
+}
+
+.all2 .lala{
+    text-align: center;
+}
+
+.all2 h1{
+    font-size: 50px;
+    word-spacing: -10px;
+    margin-top: 11px;
+}
+
+.all2 .lala p{
+    font-size: 16px;
+    letter-spacing: .4px;
+}
+
+.all2 h1,h4{
+    color: #3C3A47;
+    font-weight: 900;
+}
+
+.all2 span{
+    text-transform: uppercase;
+    color: #A7A7A9;
+}
+
+.all2 .images{
+    display: flex;
+    padding-left: 2rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+}
+
+.all2 .images p{
+    width: 300px;
+}
+
+.all2 .one,.all2 .two,.all2 .three{
+    display: grid;
+    gap: 2rem;
+    width: 350px;
+}
+
+.all2 .al{
+    display: flex;
+
+}
+
+.all2 .images span{
+    font-size: 30px;
+    color: #A0A0A2;
+}
+
+.all2 a{
+    color: #9F7657;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.all2 img{
+    width: 300px;
+}
+
+
+.all2 .finally span{
+    margin-left: -4px;
+}
+
+
+.all2 .finally{
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+
+
+
+.all3{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #3C3A47;
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+
+.all3 h1{
+    font-weight: 900;
+    padding-bottom: 2rem;
+}
+
+.all3 label{
+    text-align: left;
+}
+
+.all3 .lab{
+    display: grid;
+    gap: 2rem;
+}
+
+.all3 .lab div{
+    display: grid;
+    gap: .5rem;
+}
+
+.all3 input{
+    width: 500px;
+    height: 60px;
+    background-color:#4F4D59;
+    border-style: none;
+}
+
+.all3 textarea{
+    width: 500px;
+    background-color:#4F4D59;
+    border-style: none;
+    resize: none;
+}
+
+.all3 label, span{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+.all3 p{
+    font-style: italic;
+    color: #98979D;
+}
+
+.all3 button{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 500px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    background-color: #3C3A47;
+    border: 1px solid white;
+}
+
+
+
+.all4{
+    font-family: 'Poppins', sans-serif;
+    color: #3C3A47;
+    text-align: center;
+    padding-top: 15rem;
+}
+
+.all4 h1{
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.all4 .first{
+    padding-bottom: 4rem;
+}
+
+.all4 .images{
+    display: flex;
+    gap: 2rem;
+    padding-left: 42rem;
+    padding-bottom: 18rem;
+}
+
+.all4 p{
+    font-size: 22px;
+}
+
+.all4 .first span{
+    text-transform: uppercase;
+    color: #A7A6AC;
+    font-size: 14px;
+}
+
+.all4 .final span{
+    margin-left: -5px;
+}
+
+.all4 .final{
+    font-size: 15px;
+}
+
+.all4 a{
+    color: #A67452;
+    text-decoration: none;
+    font-weight: 800;
+    padding-bottom: 6rem;
+}
